@@ -1,0 +1,4 @@
+m1: 1.59 (fixed)
+m2: 1.508 (fixed)
+radius: 202nm (fixed)
+thickness: 14.9359nm
