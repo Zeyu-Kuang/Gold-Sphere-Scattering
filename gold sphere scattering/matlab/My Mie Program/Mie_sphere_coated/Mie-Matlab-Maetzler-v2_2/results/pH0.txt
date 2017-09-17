@@ -1,4 +1,0 @@
-m1: 1.6 (fixed as pH7)
-m2: 1.8684
-radius: 275.0982nm (fixed as pH7)
-thickness: 53.0486nm
